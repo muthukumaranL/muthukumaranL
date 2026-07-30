@@ -1,101 +1,113 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B0D,50:102A23,100:1AFFA1&text=MUTHU%20KUMARAN&fontColor=E8FFF6&fontSize=48&fontAlignY=38&desc=AI%20ENGINEER%20%2F%2F%20DATA%20INTELLIGENCE%20%2F%2F%20DIGITAL%20STORYTELLER&descAlignY=59&descSize=15&animation=fadeIn"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=31F7A0&center=true&vCenter=true&width=850&lines=INITIALIZING+MUTHU_LABS...;Building+AI+systems+for+real-world+problems.;Turning+messy+data+into+decisions.;Machine+Learning+%2B+Product+Thinking+%2B+Storytelling.;Currently+exploring+LLMs%2C+RAG%2C+Agents+and+MLOps." alt="Typing introduction"/>
-</a>
+<img src="./assets/muthu-terminal.svg" width="100%" alt="Muthu Kumaran animated terminal banner"/>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ENTER_THE_LAB-111827?style=for-the-badge\&logo=vercel\&logoColor=31F7A0)](#)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/muthukumaranl)
-[![Email](https://img.shields.io/badge/EMAIL-SEND_SIGNAL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:muthu.kumaran2502@gmail.com)
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2300&pause=700&color=9EF01A&center=true&vCenter=true&repeat=true&width=850&height=45&lines=AI+ENGINEER+IN+TRAINING+%2F%2F+DATA+EXPLORER;BUILDING+SYSTEMS+THAT+ESCAPE+THE+NOTEBOOK;MACHINE+LEARNING+%2B+DESIGN+%2B+STORYTELLING;CURRENTLY+ENTERING+THE+LLM+%2F+RAG+%2F+AGENT+ERA"
+    alt="Animated introduction"
+  />
+</a>
+
+<br><br>
+
+<a href="https://muthukumaranl.vercel.app/">
+  <img src="https://img.shields.io/badge/ENTER_PORTFOLIO-9EF01A?style=for-the-badge&logo=vercel&logoColor=050505" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/muthukumaranl">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=9EF01A" alt="LinkedIn"/>
+</a>
+<a href="mailto:muthu.kumaran2502@gmail.com">
+  <img src="https://img.shields.io/badge/SEND_SIGNAL-111111?style=for-the-badge&logo=gmail&logoColor=9EF01A" alt="Email"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=muthukumaranL&label=TERMINAL+VISITORS&color=7FB800&style=flat-square" alt="Profile visitor counter"/>
 
 </div>
 
 ---
 
-## `> WHO_AM_I`
-
-```yaml
-name: Muthu Kumaran
-location: Mississauga, Ontario, Canada
-current_mission: Building intelligent systems that solve practical problems
-focus:
-  - Artificial Intelligence Engineering
-  - Machine Learning and Deep Learning
-  - Data Analytics and Business Intelligence
-  - LLM, RAG and Agentic Applications
-  - Product Design and Visual Storytelling
-status: Open to Data Analyst, ML Engineer and AI Engineer opportunities
+```console
+muthu@github:~$ whoami
 ```
 
-I work at the intersection of **artificial intelligence, data, business, and design**.
+# Muthu Kumaran
 
-I enjoy taking an unclear real-world problem, understanding the system behind it, transforming the available data, building an intelligent solution, and presenting the result through an interface that people can actually use.
+```text
+ROLE        Applied AI Developer · Data Analyst · System Builder
+LOCATION    Mississauga, Ontario, Canada
+MISSION     Turn raw data and strange ideas into useful digital products
+MODE        Learning loudly. Building publicly. Improving continuously.
+STATUS      Open to Data Analyst, ML Engineer and AI Engineer opportunities
+```
 
-My projects explore areas including computer vision, forecasting, cybersecurity, urban analytics, football scouting, recommendation systems, and AI-powered career intelligence.
+I build projects at the intersection of **artificial intelligence, data, product thinking, visual design, and storytelling**.
+
+My work usually begins with a messy real-world problem and ends with something people can actually explore: a prediction system, interactive dashboard, computer-vision application, intelligent assistant, or data product.
+
+I am especially interested in systems that do more than produce a model score. I want the result to be **explainable, interactive, deployable, and visually memorable**.
 
 ---
 
-## `> FEATURED_SYSTEMS`
+```console
+muthu@github:~$ ./launch_featured_projects.sh
+```
+
+## Featured Programs
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 FlameGuard AI
+### `01 // FLAMEGUARD`
 
-**Real-Time Fire and Smoke Detection System**
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-9EF01A?style=flat-square&labelColor=111111" alt="Online"/>
 
-Computer-vision platform that detects fire and smoke through uploaded media and live webcam streams using YOLO11.
+**Real-Time Fire and Smoke Detection**
 
-`YOLO11` `Computer Vision` `Streamlit` `OpenCV` `Python`
+A computer-vision application that detects fire and smoke from images, videos, and live webcam streams using a fine-tuned YOLO11 model.
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-101820?style=for-the-badge\&logo=github\&logoColor=31F7A0)](https://github.com/muthukumaranL/flameguard-ai)
+The project combines object detection, confidence filtering, visual annotations, real-time inference, and an interactive Streamlit interface.
 
-</td>
-<td width="50%" valign="top">
+**Core modules**
 
-### ⚽ Football Intelligence
+`YOLO11` `Computer Vision` `OpenCV`
+`PyTorch` `Streamlit` `Python`
 
-**Data-Driven Recruitment and Scouting Platform**
+<br>
 
-Machine-learning platform for player valuation, future-value forecasting, transfer-success prediction, and explainable scouting decisions.
-
-`Machine Learning` `Streamlit` `SHAP` `scikit-learn` `Analytics`
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-101820?style=for-the-badge\&logo=github\&logoColor=31F7A0)](https://github.com/muthukumaranL/Football-Intelligence-Scouting-Platform)
+<a href="https://github.com/muthukumaranL/flameguard-ai">
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-111111?style=for-the-badge&logo=github&logoColor=9EF01A" alt="Open FlameGuard repository"/>
+</a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
-### 🛡️ AEGIS
+### `02 // FOOTBALL INTELLIGENCE`
 
-**Vulnerability Intelligence and Intrusion Detection Platform**
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-9EF01A?style=flat-square&labelColor=111111" alt="Online"/>
 
-A unified cybersecurity platform combining CVE exploit-risk prediction, intrusion detection, anomaly detection, asset context, and explainable risk prioritization.
+**Machine-Learning Scouting Platform**
 
-`Cybersecurity` `FastAPI` `Streamlit` `SHAP` `Docker`
+A data-driven recruitment platform for evaluating football players through player valuation, future-value forecasting, transfer-success prediction, similarity analysis, and explainable scouting insights.
 
-**Status:** Preparing public release
+The platform transforms player data into an interactive decision-support product for recruitment teams.
 
-</td>
-<td width="50%" valign="top">
+**Core modules**
 
-### 🌆 Toronto City Pulse
+`Machine Learning` `SHAP` `Analytics`
+`scikit-learn` `Streamlit` `Python`
 
-**Urban Service Reliability Intelligence**
+<br>
 
-Analytics platform exploring regional service reliability, resident friction, operational performance, and municipal service patterns across Toronto.
-
-`Power BI` `Python` `SQL` `Data Analytics` `Storytelling`
-
-**Status:** Case study coming soon
+<a href="https://github.com/muthukumaranL/Football-Intelligence-Scouting-Platform">
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-111111?style=for-the-badge&logo=github&logoColor=9EF01A" alt="Open Football Intelligence repository"/>
+</a>
 
 </td>
 </tr>
@@ -103,137 +115,252 @@ Analytics platform exploring regional service reliability, resident friction, op
 
 ---
 
-## `> SYSTEMS_IN_DEVELOPMENT`
+```console
+muthu@github:~$ cat current_experiments.log
+```
+
+## Currently Building
 
 ```text
-[01] SKILLRADAR
-     Job-market intelligence + resume gap analysis
-     LLMs • NLP • RAG • Skill Taxonomies • Analytics
-
-[02] DEMANDSHOCK
-     Crisis-aware retail demand forecasting
-     Time Series • M5 Dataset • MLOps • Explainability
-
-[03] LOCKIN AI
-     Goal execution and accountability system
-     AI Agents • Behavioral Analytics • Product Engineering
-
-[04] MUTHU LABS OS
-     Personal knowledge and intelligence workspace
-     Retrieval • Automation • Second-Brain Architecture
+┌──────────────────────────────────────────────────────────────────────┐
+│  [01] SKILLRADAR                                                    │
+│                                                                      │
+│  Job-market intelligence and resume-gap analysis platform           │
+│  NLP · LLMs · RAG · Skill Extraction · Career Analytics             │
+│                                                                      │
+│  STATUS  ███████░░░  IN DEVELOPMENT                                 │
+├──────────────────────────────────────────────────────────────────────┤
+│  [02] DEMANDSHOCK                                                   │
+│                                                                      │
+│  Crisis-aware retail demand forecasting system                      │
+│  Time Series · M5 Dataset · Explainability · MLOps                   │
+│                                                                      │
+│  STATUS  ████░░░░░░  RESEARCHING                                   │
+├──────────────────────────────────────────────────────────────────────┤
+│  [03] LOCKIN AI                                                     │
+│                                                                      │
+│  Goal-execution and personal accountability application             │
+│  AI Agents · Progress Intelligence · Product Engineering            │
+│                                                                      │
+│  STATUS  ███░░░░░░░  PROTOTYPING                                   │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `> TECHNOLOGY_STACK`
+```console
+muthu@github:~$ inspect --capabilities
+```
 
-### Intelligence and Machine Learning
+## System Capabilities
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square\&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square\&logo=numpy)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=flat-square\&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square\&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square\&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square\&logo=opencv)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-111827?style=flat-square\&logo=huggingface)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### Data and Business Intelligence
+### `INTELLIGENCE`
 
-![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square\&logo=postgresql)
-![Power BI](https://img.shields.io/badge/Power_BI-111827?style=flat-square\&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-111827?style=flat-square\&logo=tableau)
-![Excel](https://img.shields.io/badge/Excel-111827?style=flat-square\&logo=microsoftexcel)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-111827?style=flat-square\&logo=apachespark)
+```text
+Python
+pandas
+NumPy
+scikit-learn
+TensorFlow
+PyTorch
+YOLO
+OpenCV
+NLP
+Time Series
+Explainable AI
+```
 
-### Application and Deployment
+</td>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square\&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=flat-square\&logo=streamlit)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square\&logo=docker)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square\&logo=github)
+<td valign="top" width="33%">
+
+### `DATA`
+
+```text
+SQL
+Power BI
+DAX
+Power Query
+Tableau
+Excel
+Data Cleaning
+EDA
+Data Modelling
+KPI Reporting
+Dashboard Design
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+### `ENGINEERING`
+
+```text
+FastAPI
+Streamlit
+Git
+GitHub
+Docker
+REST APIs
+React
+TypeScript
+Vercel
+Testing
+Deployment
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,docker,git,github,react,ts,vscode&theme=dark&perline=12" alt="Technology icons"/>
+
+</div>
 
 ---
 
-## `> ENGINEERING_PHILOSOPHY`
+```console
+muthu@github:~$ python engineering_philosophy.py
+```
 
 ```python
 class MuthuKumaran:
     def __init__(self):
-        self.roles = ["AI Engineer", "Data Analyst", "Digital Storyteller"]
-        self.interests = [
-            "intelligent systems",
-            "human-centered products",
-            "visual storytelling",
-            "real-world problem solving"
+        self.identity = [
+            "AI builder",
+            "data explorer",
+            "visual thinker",
+            "storyteller"
         ]
 
-    def build(self, problem):
-        context = understand(problem)
-        data = investigate(context)
-        intelligence = engineer(data)
-        product = design_for_humans(intelligence)
+    def solve(self, messy_problem):
+        context = understand_the_system(messy_problem)
+        data = collect_clean_and_question(context)
+        intelligence = build_and_evaluate(data)
+        product = make_it_useful(intelligence)
+        story = make_it_understandable(product)
 
-        return communicate_clearly(product)
+        return deploy(product, story)
+
+    def current_goal(self):
+        return "Build systems that escape the notebook."
 ```
 
-> I do not want to build models that remain inside notebooks.
-> I want to build systems that people can understand, interact with, and use.
+---
+
+```console
+muthu@github:~$ git status
+```
+
+## Current Status
+
+```diff
++ Building production-oriented AI portfolio projects
++ Learning LLM applications, RAG and agentic workflows
++ Improving backend engineering and deployment skills
++ Creating interfaces that make technical systems approachable
++ Preparing for Data Analyst, ML Engineer and AI Engineer roles
+
+! Refusing to become a tutorial collector
+! Converting learning into working projects
+! Shipping before everything feels perfect
+```
 
 ---
 
-## `> CURRENT_TRANSMISSION`
+```console
+muthu@github:~$ ./render_activity.sh
+```
 
-* Developing production-oriented AI portfolio projects
-* Learning LLM applications, RAG, AI agents, and LLMOps
-* Strengthening backend development, Docker, testing, and deployment
-* Preparing for Data Analyst, Machine Learning, and AI Engineering roles
-* Documenting the complete journey through public GitHub projects
-
----
-
-## `> GITHUB_ACTIVITY`
+## Development Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muthukumaranL&show_icons=true&hide_border=true&bg_color=070B0D&title_color=31F7A0&icon_color=FFCC66&text_color=D8E5DF&rank_icon=github" alt="GitHub statistics"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muthukumaranL&theme=github_dark" alt="GitHub profile summary"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muthukumaranL&hide_border=true&background=070B0D&stroke=23352E&ring=31F7A0&fire=FFCC66&currStreakLabel=31F7A0&sideLabels=D8E5DF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7C9289" alt="GitHub streak"/>
+<br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muthukumaranL&theme=github_dark" alt="Repositories per language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muthukumaranL&theme=github_dark" alt="Most committed languages"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muthukumaranL&theme=github_dark&utcOffset=-4" alt="Productive time"/>
+
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muthukumaranL&theme=github_dark" alt="GitHub statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=muthukumaranL&theme=github_dark" alt="GitHub commits"/>
 
 </div>
 
+---
+
+```console
+muthu@github:~$ ./release_contribution_creature.sh
+```
+
 <div align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=muthukumaranL&bg_color=070B0D&color=31F7A0&line=FFCC66&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph"/>
+<img src="https://raw.githubusercontent.com/muthukumaranL/muthukumaranL/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
 
 </div>
 
 ---
 
-## `> ESTABLISH_CONNECTION`
+```console
+muthu@github:~$ ls interests/
+```
 
-I am interested in collaborating on projects involving:
+```text
+artificial-intelligence/     filmmaking/
+machine-learning/            visual-storytelling/
+data-intelligence/           product-design/
+cybersecurity/               philosophy/
+football-analytics/          creative-technology/
+```
 
-* Applied AI and machine learning
-* LLM, RAG, and agentic systems
-* Data products and decision-support platforms
-* Computer vision
-* Cybersecurity analytics
-* Creative technology and interactive storytelling
+Technology is only one side of my work. I am also interested in cinema, design, storytelling, philosophy, politics, football, and the strange ways people interact with systems.
+
+Those interests influence how I build: technically functional, visually intentional, and structured around a clear story.
+
+---
+
+```console
+muthu@github:~$ connect --channel
+```
+
+## Establish Connection
+
+I am interested in projects involving applied AI, machine learning, data products, LLM applications, computer vision, interactive analytics, and creative technology.
 
 <div align="center">
 
-**Have an interesting problem, project, or opportunity? Send a signal.**
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-MUTHU_KUMARAN-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/muthukumaranl)
-[![GitHub](https://img.shields.io/badge/GITHUB-MUTHUKUMARANL-181717?style=for-the-badge\&logo=github)](https://github.com/muthukumaranL)
-[![Email](https://img.shields.io/badge/EMAIL-MUTHU.KUMARAN2502-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:muthu.kumaran2502@gmail.com)
+<a href="https://muthukumaranl.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-muthukumaranl.vercel.app-9EF01A?style=for-the-badge&logo=vercel&logoColor=050505" alt="Portfolio"/>
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=muthukumaranL&label=SYSTEM+VISITORS&color=1FA66F&style=flat-square" alt="Profile visitor count"/>
+<a href="https://linkedin.com/in/muthukumaranl">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=9EF01A" alt="LinkedIn"/>
+</a>
+<a href="mailto:muthu.kumaran2502@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-SEND_SIGNAL-111111?style=for-the-badge&logo=gmail&logoColor=9EF01A" alt="Email"/>
+</a>
+<a href="https://github.com/muthukumaranL">
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=9EF01A" alt="GitHub"/>
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1AFFA1,50:102A23,100:070B0D"/>
+<br><br>
+
+```text
+END OF TRANSMISSION
+SYSTEM REMAINS ONLINE
+```
 
 </div>
