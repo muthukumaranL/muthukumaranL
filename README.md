@@ -301,6 +301,15 @@ muthu@github:~$ ./render_activity.sh
 ---
 
 ```console
+muthu@github:~$ ./render_3d_contribution_matrix.sh
+---
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="Muthu Kumaran 3D GitHub contribution calendar" />
+
+</div>
+```
+```console
 muthu@github:~$ ./release_contribution_creature.sh
 ```
 
