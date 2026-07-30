@@ -276,6 +276,7 @@ muthu@github:~$ git status
 ---
 
 ```console
+```console
 muthu@github:~$ ./render_activity.sh
 ```
 
@@ -283,18 +284,35 @@ muthu@github:~$ ./render_activity.sh
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muthukumaranL&theme=github_dark" alt="GitHub profile summary"/>
+<img
+width="98%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muthukumaranL&theme=github_dark&animation=load&duration=3"
+alt="GitHub profile summary"
+/>
 
 <br>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muthukumaranL&theme=github_dark" alt="Repositories per language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muthukumaranL&theme=github_dark" alt="Most committed languages"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muthukumaranL&theme=github_dark&utcOffset=-4" alt="Productive time"/>
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muthukumaranL&theme=github_dark&animation=load&duration=3"
+alt="Repositories per language"
+/> <img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muthukumaranL&theme=github_dark&animation=load&duration=3"
+alt="Most committed languages"
+/>
 
 <br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muthukumaranL&theme=github_dark" alt="GitHub statistics"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=muthukumaranL&theme=github_dark" alt="GitHub commits"/>
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muthukumaranL&theme=github_dark&animation=load&duration=3"
+alt="GitHub statistics"
+/> <img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muthukumaranL&theme=github_dark&utcOffset=-4&animation=load&duration=3"
+alt="Productive time"
+/>
 
 </div>
 
@@ -302,20 +320,33 @@ muthu@github:~$ ./render_activity.sh
 
 ```console
 muthu@github:~$ ./render_3d_contribution_matrix.sh
----
+```
+
+## 3D Contribution Matrix
+
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="Muthu Kumaran 3D GitHub contribution calendar" />
+<img
+src="./profile-3d-contrib/profile-night-green.svg"
+width="100%"
+alt="Muthu Kumaran 3D GitHub contribution calendar"
+/>
 
 </div>
-```
+
+---
+
 ```console
 muthu@github:~$ ./release_contribution_creature.sh
 ```
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/muthukumaranL/muthukumaranL/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+<img
+src="https://raw.githubusercontent.com/muthukumaranL/muthukumaranL/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+alt="Animated contribution snake"
+/>
 
 </div>
 
