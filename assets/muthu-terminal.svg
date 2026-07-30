@@ -136,7 +136,7 @@
 
     <g font-family="'Courier New', monospace">
       <text x="74" y="78" fill="#61704F" font-size="16">
-        MUTHU_LABS_BOOT_SEQUENCE
+        Booting Neural Shell
       </text>
 
       <text x="74" y="112" fill="#9EF01A" font-size="18">
@@ -181,7 +181,7 @@
         font-size="16"
         letter-spacing="3"
       >
-        AI SYSTEMS // DATA // DESIGN // STORIES
+        AI // DATA // DESIGN
       </text>
 
       <text x="880" y="78" fill="#9EF01A" font-size="15">
