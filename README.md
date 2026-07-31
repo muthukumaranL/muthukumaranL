@@ -236,7 +236,6 @@ CYBERSECURITY          CREATIVE TECHNOLOGY
 [**PORTFOLIO**](https://muthukumaranl.vercel.app/) ·
 [**LINKEDIN**](https://linkedin.com/in/muthukumaranl) ·
 [**EMAIL**](mailto:muthu.kumaran2502@gmail.com) ·
-[**GITHUB**](https://github.com/muthukumaranL)
 
 <img src="./assets/final-frame.svg" width="100%" alt="Muthu Kumaran final frame"/>
 
