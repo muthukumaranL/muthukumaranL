@@ -205,13 +205,6 @@ SHIP WITH A POINT OF VIEW
 <div align="center">
 
 <img
-  src="./profile-3d-contrib/profile-night-rainbow.svg"
-  width="100%"
-  alt="3D GitHub contribution calendar"
-/>
-
-
-<img
   src="https://raw.githubusercontent.com/muthukumaranL/muthukumaranL/output/github-contribution-grid-snake-dark.svg"
   width="100%"
   alt="Animated GitHub contribution snake"
