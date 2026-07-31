@@ -231,12 +231,6 @@ PHILOSOPHY          POLITICS
 CYBERSECURITY       CREATIVE TECHNOLOGY
 ```
 
-Cinema shapes how I communicate.  
-Design shapes how I package ideas.   
-Storytelling shapes how I make technical work understandable.
-
----
-
 <div align="center">
 
 ## `FINAL FRAME`
