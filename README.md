@@ -238,8 +238,6 @@ CYBERSECURITY          CREATIVE TECHNOLOGY
 [**EMAIL**](mailto:muthu.kumaran2502@gmail.com) ·
 [**GITHUB**](https://github.com/muthukumaranL)
 
-<br><br>
-
 <img src="./assets/final-frame.svg" width="100%" alt="Muthu Kumaran final frame"/>
 
 </div>
