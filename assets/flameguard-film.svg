@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="980" viewBox="0 0 780 980">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#120A09"/><stop offset="1" stop-color="#25110C"/></linearGradient>
+  <linearGradient id="fire" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#D72638"/><stop offset=".55" stop-color="#E85D24"/><stop offset="1" stop-color="#F2B134"/></linearGradient>
+  <pattern id="grain" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".7" fill="#F4EBDD" opacity=".05"/></pattern>
+</defs>
+<rect width="780" height="980" rx="26" fill="#030303"/>
+<rect x="12" y="12" width="756" height="956" rx="22" fill="url(#bg)" stroke="#F4EBDD" stroke-opacity=".18" stroke-width="2"/>
+<rect x="12" y="12" width="756" height="956" rx="22" fill="url(#grain)"/>
+
+<text x="42" y="68" fill="#F2B134" font-family="Courier New,monospace" font-size="16" letter-spacing="3">MUTHU KUMARAN PRESENTS</text>
+<text x="42" y="160" fill="#F4EBDD" font-family="Impact,Arial Black,sans-serif" font-size="98">FLAME</text>
+<text x="42" y="248" fill="#D72638" font-family="Impact,Arial Black,sans-serif" font-size="98">GUARD</text>
+<text x="46" y="290" fill="#B8AFA6" font-family="Georgia,serif" font-size="24" font-style="italic">A real-time fire and smoke detection system</text>
+
+<rect x="62" y="346" width="656" height="410" rx="18" fill="#090909" stroke="#F4EBDD" stroke-opacity=".18"/>
+<path d="M390 700 C294 662 308 558 350 494 C356 568 398 561 418 458 C512 548 528 658 462 706 C438 723 410 724 390 700Z" fill="url(#fire)">
+  <animateTransform attributeName="transform" type="scale" values="1 1 390 590;1.045 .965 390 590;1 1 390 590" dur="1.7s" repeatCount="indefinite"/>
+</path>
+<rect x="234" y="420" width="318" height="258" fill="none" stroke="#F2B134" stroke-width="4">
+  <animate attributeName="stroke-opacity" values=".35;1;.35" dur="1.3s" repeatCount="indefinite"/>
+</rect>
+<rect x="234" y="382" width="158" height="32" rx="4" fill="#F2B134"/>
+<text x="248" y="405" fill="#111111" font-family="Courier New,monospace" font-size="17" font-weight="700">FIRE 0.94</text>
+
+<text x="42" y="822" fill="#F4EBDD" font-family="Courier New,monospace" font-size="16" letter-spacing="2">STARRING</text>
+<text x="42" y="868" fill="#F2B134" font-family="Arial Black,sans-serif" font-size="27">YOLO11 · OPENCV · PYTORCH</text>
+<text x="42" y="920" fill="#B8AFA6" font-family="Georgia,serif" font-size="22" font-style="italic">Image. Video. Live webcam. One detection pipeline.</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101010"/><stop offset="1" stop-color="#1A1512"/></linearGradient>
+</defs>
+<rect width="1200" height="310" rx="26" fill="url(#bg)"/>
+<rect x="18" y="18" width="1164" height="274" rx="18" fill="none" stroke="#F4EBDD" stroke-opacity=".16" stroke-width="2"/>
+<text x="48" y="62" fill="#F4EBDD" font-family="Impact,Arial Black,sans-serif" font-size="36">PROCESS STRIP / HOW THE SYSTEM GETS MADE</text>
+
+<g transform="translate(48 110)" font-family="Courier New,monospace">
+  <g>
+    <circle cx="34" cy="34" r="34" fill="#D72638"/>
+    <text x="24" y="42" fill="#F4EBDD" font-size="20" font-weight="700">01</text>
+    <text x="84" y="28" fill="#F4EBDD" font-size="18" font-weight="700">UNDERSTAND</text>
+    <text x="84" y="52" fill="#8D847C" font-size="13">the system</text>
+  </g>
+  <g transform="translate(228 0)">
+    <circle cx="34" cy="34" r="34" fill="#F2B134"/>
+    <text x="24" y="42" fill="#111111" font-size="20" font-weight="700">02</text>
+    <text x="84" y="28" fill="#F4EBDD" font-size="18" font-weight="700">QUESTION</text>
+    <text x="84" y="52" fill="#8D847C" font-size="13">the data</text>
+  </g>
+  <g transform="translate(456 0)">
+    <circle cx="34" cy="34" r="34" fill="#8EBA6F"/>
+    <text x="24" y="42" fill="#111111" font-size="20" font-weight="700">03</text>
+    <text x="84" y="28" fill="#F4EBDD" font-size="18" font-weight="700">BUILD</text>
+    <text x="84" y="52" fill="#8D847C" font-size="13">the intelligence</text>
+  </g>
+  <g transform="translate(684 0)">
+    <circle cx="34" cy="34" r="34" fill="#D72638"/>
+    <text x="24" y="42" fill="#F4EBDD" font-size="20" font-weight="700">04</text>
+    <text x="84" y="28" fill="#F4EBDD" font-size="18" font-weight="700">DESIGN</text>
+    <text x="84" y="52" fill="#8D847C" font-size="13">for the human</text>
+  </g>
+  <g transform="translate(912 0)">
+    <circle cx="34" cy="34" r="34" fill="#F2B134"/>
+    <text x="24" y="42" fill="#111111" font-size="20" font-weight="700">05</text>
+    <text x="84" y="28" fill="#F4EBDD" font-size="18" font-weight="700">SHIP</text>
+    <text x="84" y="52" fill="#8D847C" font-size="13">with a point of view</text>
+  </g>
+</g>
+
+<rect x="48" y="232" width="1104" height="2" fill="#D72638">
+  <animate attributeName="x" values="48;220;48" dur="5.5s" repeatCount="indefinite"/>
+  <animate attributeName="width" values="1104;760;1104" dur="5.5s" repeatCount="indefinite"/>
+</rect>
+</svg>

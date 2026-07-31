@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111111"/><stop offset="1" stop-color="#1A1512"/></linearGradient>
+  <pattern id="grain" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".6" fill="#F4EBDD" opacity=".05"/></pattern>
+</defs>
+<rect width="1200" height="270" rx="26" fill="url(#bg)"/>
+<rect width="1200" height="270" rx="26" fill="url(#grain)"/>
+<rect x="18" y="18" width="1164" height="234" rx="18" fill="none" stroke="#F4EBDD" stroke-opacity=".16" stroke-width="2"/>
+
+<g transform="translate(44 42)">
+  <rect width="1112" height="186" rx="18" fill="#0B0B0B"/>
+  <g fill="#F4EBDD" opacity=".14">
+    <rect x="0" y="0" width="22" height="16"/><rect x="38" y="0" width="22" height="16"/><rect x="76" y="0" width="22" height="16"/>
+    <rect x="1014" y="170" width="22" height="16"/><rect x="1052" y="170" width="22" height="16"/><rect x="1090" y="170" width="22" height="16"/>
+  </g>
+
+  <g transform="translate(34 36)">
+    <text x="0" y="0" fill="#D72638" font-family="Courier New,monospace" font-size="13" letter-spacing="2">FRAME 01</text>
+    <text x="0" y="38" fill="#F4EBDD" font-family="Arial Black,sans-serif" font-size="28">OBSERVE</text>
+    <text x="0" y="70" fill="#8D847C" font-family="Courier New,monospace" font-size="14">notice the problem</text>
+  </g>
+  <g transform="translate(300 36)">
+    <text x="0" y="0" fill="#D72638" font-family="Courier New,monospace" font-size="13" letter-spacing="2">FRAME 02</text>
+    <text x="0" y="38" fill="#F4EBDD" font-family="Arial Black,sans-serif" font-size="28">QUESTION</text>
+    <text x="0" y="70" fill="#8D847C" font-family="Courier New,monospace" font-size="14">interrogate the data</text>
+  </g>
+  <g transform="translate(592 36)">
+    <text x="0" y="0" fill="#D72638" font-family="Courier New,monospace" font-size="13" letter-spacing="2">FRAME 03</text>
+    <text x="0" y="38" fill="#F4EBDD" font-family="Arial Black,sans-serif" font-size="28">BUILD</text>
+    <text x="0" y="70" fill="#8D847C" font-family="Courier New,monospace" font-size="14">shape the intelligence</text>
+  </g>
+  <g transform="translate(850 36)">
+    <text x="0" y="0" fill="#D72638" font-family="Courier New,monospace" font-size="13" letter-spacing="2">FRAME 04</text>
+    <text x="0" y="38" fill="#F4EBDD" font-family="Arial Black,sans-serif" font-size="28">SHIP</text>
+    <text x="0" y="70" fill="#8D847C" font-family="Courier New,monospace" font-size="14">make it real</text>
+  </g>
+
+  <rect x="34" y="136" width="1044" height="2" fill="#D72638">
+    <animate attributeName="x" values="34;250;34" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="1044;828;1044" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</g>
+</svg>

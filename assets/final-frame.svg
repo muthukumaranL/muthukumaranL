@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A0A0A"/><stop offset="1" stop-color="#18120F"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#D72638"/><stop offset=".5" stop-color="#F2B134"/><stop offset="1" stop-color="#8EBA6F"/></linearGradient>
+</defs>
+<rect width="1200" height="190" rx="26" fill="url(#bg)"/>
+<rect x="18" y="18" width="1164" height="154" rx="18" fill="none" stroke="#F4EBDD" stroke-opacity=".16" stroke-width="2"/>
+<text x="600" y="74" text-anchor="middle" fill="#F4EBDD" font-family="Impact,Arial Black,sans-serif" font-size="43">MUTHU KUMARAN / DIRECTOR'S CUT</text>
+<text x="600" y="112" text-anchor="middle" fill="#8D847C" font-family="Courier New,monospace" font-size="15" letter-spacing="3">AI · DATA · DESIGN · STORY</text>
+<rect x="180" y="138" width="840" height="3" fill="url(#line)">
+  <animate attributeName="x" values="180;300;180" dur="5s" repeatCount="indefinite"/>
+  <animate attributeName="width" values="840;600;840" dur="5s" repeatCount="indefinite"/>
+</rect>
+<circle cx="1110" cy="64" r="7" fill="#D72638"><animate attributeName="opacity" values="1;.15;1" dur="1.2s" repeatCount="indefinite"/></circle>
+</svg>

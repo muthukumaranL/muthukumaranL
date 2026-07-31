@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#090909"/>
+    <stop offset=".55" stop-color="#16110E"/>
+    <stop offset="1" stop-color="#070707"/>
+  </linearGradient>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7A0B15"/>
+    <stop offset=".5" stop-color="#D72638"/>
+    <stop offset="1" stop-color="#7A0B15"/>
+  </linearGradient>
+  <pattern id="grain" width="16" height="16" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="3" r=".7" fill="#F4EBDD" opacity=".06"/>
+    <circle cx="10" cy="4" r=".5" fill="#F4EBDD" opacity=".04"/>
+    <circle cx="6" cy="12" r=".7" fill="#F4EBDD" opacity=".05"/>
+    <circle cx="14" cy="14" r=".5" fill="#F4EBDD" opacity=".04"/>
+  </pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="frame"><rect x="24" y="24" width="1152" height="572" rx="24"/></clipPath>
+</defs>
+
+<rect width="1200" height="620" rx="34" fill="#030303"/>
+<rect x="12" y="12" width="1176" height="596" rx="30" fill="url(#bg)" stroke="#F4EBDD" stroke-opacity=".18" stroke-width="2"/>
+<g clip-path="url(#frame)">
+  <rect x="24" y="24" width="1152" height="572" fill="url(#grain)"/>
+
+  <g opacity=".8">
+    <circle cx="60" cy="62" r="8" fill="#D72638"/>
+    <text x="80" y="69" fill="#F4EBDD" font-family="Courier New,monospace" font-size="14" letter-spacing="3">REC  /  DIRECTOR'S CUT</text>
+  </g>
+
+  <g opacity=".2" fill="none" stroke="#F4EBDD">
+    <circle cx="1030" cy="122" r="160"/>
+    <circle cx="1030" cy="122" r="110"/>
+    <circle cx="1030" cy="122" r="60"/>
+    <path d="M1030 -20V280M870 122H1190"/>
+  </g>
+
+  <text x="58" y="146" fill="#8D847C" font-family="Courier New,monospace" font-size="15" letter-spacing="4">A FILM ABOUT INTELLIGENCE, DATA, AND MAKING THINGS REAL</text>
+
+  <text x="54" y="274" fill="#F4EBDD" font-family="Impact,Arial Black,sans-serif" font-size="132" letter-spacing="-5">MUTHU</text>
+  <text x="54" y="396" fill="url(#red)" font-family="Impact,Arial Black,sans-serif" font-size="132" letter-spacing="-5" filter="url(#glow)">KUMARAN</text>
+
+  <text x="62" y="447" fill="#F2B134" font-family="Georgia,serif" font-size="30" font-style="italic">
+    AI engineering. Data intelligence. Visual storytelling.
+  </text>
+
+  <rect x="60" y="482" width="680" height="2" fill="#D72638">
+    <animate attributeName="width" values="90;680;510;680" dur="4.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="60" y="527" fill="#F4EBDD" font-family="Courier New,monospace" font-size="17" letter-spacing="3">
+    BUILDING SYSTEMS THAT ESCAPE THE NOTEBOOK
+  </text>
+
+  <g transform="translate(850 350)">
+    <rect width="282" height="170" rx="18" fill="#0B0B0B" stroke="#F4EBDD" stroke-opacity=".2"/>
+    <text x="24" y="38" fill="#D72638" font-family="Courier New,monospace" font-size="13" letter-spacing="2">CURRENT ROLE</text>
+    <text x="24" y="78" fill="#F4EBDD" font-family="Arial Black,sans-serif" font-size="23">AI BUILDER</text>
+    <text x="24" y="112" fill="#F2B134" font-family="Arial Black,sans-serif" font-size="23">DATA EXPLORER</text>
+    <text x="24" y="146" fill="#F4EBDD" font-family="Arial Black,sans-serif" font-size="23">STORYTELLER</text>
+  </g>
+
+  <rect x="-220" y="24" width="120" height="572" fill="#F4EBDD" opacity=".016" transform="skewX(-10)">
+    <animate attributeName="x" values="-220;1380" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <g opacity="0">
+    <rect x="24" y="300" width="1152" height="7" fill="#D72638"/>
+    <animate attributeName="opacity" values="0;0;.55;0;0" keyTimes="0;.91;.92;.94;1" dur="6.2s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 0;14 -6;-9 5;0 0" keyTimes="0;.91;.92;.94;1" dur="6.2s" repeatCount="indefinite"/>
+  </g>
+</g>
+</svg>

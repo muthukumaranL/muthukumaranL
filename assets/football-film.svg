@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="980" viewBox="0 0 780 980">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09110E"/><stop offset="1" stop-color="#141812"/></linearGradient>
+  <pattern id="grain" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".7" fill="#F4EBDD" opacity=".05"/></pattern>
+</defs>
+<rect width="780" height="980" rx="26" fill="#030303"/>
+<rect x="12" y="12" width="756" height="956" rx="22" fill="url(#bg)" stroke="#F4EBDD" stroke-opacity=".18" stroke-width="2"/>
+<rect x="12" y="12" width="756" height="956" rx="22" fill="url(#grain)"/>
+
+<text x="42" y="68" fill="#F2B134" font-family="Courier New,monospace" font-size="16" letter-spacing="3">MUTHU KUMARAN PRESENTS</text>
+<text x="42" y="148" fill="#F4EBDD" font-family="Impact,Arial Black,sans-serif" font-size="80">FOOTBALL</text>
+<text x="42" y="228" fill="#8EBA6F" font-family="Impact,Arial Black,sans-serif" font-size="80">INTELLIGENCE</text>
+<text x="46" y="274" fill="#B8AFA6" font-family="Georgia,serif" font-size="24" font-style="italic">A data-driven scouting and recruitment platform</text>
+
+<rect x="62" y="336" width="656" height="430" rx="18" fill="#090909" stroke="#F4EBDD" stroke-opacity=".18"/>
+<rect x="98" y="382" width="330" height="332" fill="none" stroke="#F4EBDD" stroke-opacity=".35"/>
+<line x1="263" y1="382" x2="263" y2="714" stroke="#F4EBDD" stroke-opacity=".35"/>
+<circle cx="263" cy="548" r="56" fill="none" stroke="#F4EBDD" stroke-opacity=".35"/>
+
+<circle cx="176" cy="468" r="13" fill="#D72638"><animate attributeName="cy" values="468;443;468" dur="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="330" cy="572" r="13" fill="#F2B134"><animate attributeName="cx" values="330;362;330" dur="3.3s" repeatCount="indefinite"/></circle>
+<circle cx="190" cy="650" r="13" fill="#8EBA6F"><animate attributeName="cx" values="190;218;190" dur="3.9s" repeatCount="indefinite"/></circle>
+
+<g transform="translate(500 434)">
+  <circle cx="72" cy="72" r="70" fill="none" stroke="#8EBA6F" stroke-width="3"/>
+  <path d="M72 8L122 40L113 102L72 140L31 102L22 40Z" fill="none" stroke="#F4EBDD" stroke-width="3"/>
+  <path d="M72 38L100 56L95 90L72 112L49 90L44 56Z" fill="none" stroke="#F2B134" stroke-width="3"/>
+  <animateTransform attributeName="transform" type="rotate" values="0 72 72;5 72 72;0 72 72;-5 72 72;0 72 72" dur="6s" additive="sum" repeatCount="indefinite"/>
+</g>
+
+<text x="468" y="650" fill="#F4EBDD" font-family="Courier New,monospace" font-size="17">VALUATION</text>
+<text x="468" y="682" fill="#F4EBDD" font-family="Courier New,monospace" font-size="17">TRANSFER SUCCESS</text>
+<text x="468" y="714" fill="#F4EBDD" font-family="Courier New,monospace" font-size="17">EXPLAINABILITY</text>
+
+<text x="42" y="826" fill="#F4EBDD" font-family="Courier New,monospace" font-size="16" letter-spacing="2">STARRING</text>
+<text x="42" y="872" fill="#8EBA6F" font-family="Arial Black,sans-serif" font-size="25">ML · SHAP · STREAMLIT · ANALYTICS</text>
+<text x="42" y="922" fill="#B8AFA6" font-family="Georgia,serif" font-size="21" font-style="italic">Turning player data into explainable recruitment decisions.</text>
+</svg>
