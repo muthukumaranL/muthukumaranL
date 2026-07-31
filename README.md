@@ -82,7 +82,7 @@ A computer-vision system that detects fire and smoke through images, video, and 
 
 `YOLO11` `OpenCV` `PyTorch` `Streamlit`
 
-[**View production →**](https://github.com/muthukumaranL/flameguard-ai) · [**Live cut →**]((https://flameguardai.streamlit.app/))
+[**View production →**](https://github.com/muthukumaranL/flameguard-ai) · [**Live cut →**]((https://flameguardai.streamlit.app))
 
 </td>
 <td width="50%" valign="top">
