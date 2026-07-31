@@ -218,10 +218,9 @@ SHIP WITH A POINT OF VIEW
   alt="Animated GitHub contribution snake"
 />
 
-</div>
+</div align="center">
 
 ---
-<div align="center">
 ## `OUTSIDE THE FRAME`
 
 ```text
