@@ -1,18 +1,28 @@
 <div align="center">
 
-<img src="assets/afterimage-split-trailer(3).svg" width="100%" alt="Muthu Kumaran Afterimage split-screen cinematic trailer"/>
+<img src="assets/muthu-directors-cut(2).svg" width="100%" alt="Muthu Kumaran Director's Cut cinematic GitHub profile"/>
 
 <br>
 
 <a href="https://github.com/muthukumaranL/flameguard-ai">
-  <img src="https://img.shields.io/badge/FLAMEGUARD-OPEN_PROJECT-EB4B61?style=for-the-badge&labelColor=08090D" alt="FlameGuard"/>
+  <img src="https://img.shields.io/badge/SCENE_01-FLAMEGUARD-B76349?style=for-the-badge&labelColor=08090B" alt="FlameGuard"/>
 </a>
 <a href="https://github.com/muthukumaranL/Football-Intelligence-Scouting-Platform">
-  <img src="https://img.shields.io/badge/FOOTBALL_INTELLIGENCE-OPEN_PROJECT-59D8E8?style=for-the-badge&labelColor=08090D" alt="Football Intelligence"/>
+  <img src="https://img.shields.io/badge/SCENE_02-FOOTBALL_INTELLIGENCE-87B7C2?style=for-the-badge&labelColor=08090B" alt="Football Intelligence"/>
 </a>
 <a href="https://muthukumaranl.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-ENTER_AFTERIMAGE-E1BB73?style=for-the-badge&logo=vercel&logoColor=08090D&labelColor=08090D" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/DIRECTOR'S_TREATMENT-PORTFOLIO-D5A45D?style=for-the-badge&logo=vercel&logoColor=08090B&labelColor=08090B" alt="Portfolio"/>
 </a>
+
+<details>
+<summary><b>Production notes</b></summary>
+<br>
+
+Scene 01 — FlameGuard: fine-tuned YOLO11, OpenCV, PyTorch, Streamlit, and image/video/live-webcam inference.
+
+Scene 02 — Football Intelligence: valuation, future-value prediction, transfer-success prediction, SHAP explainability, and Streamlit deployment.
+
+</details>
 
 </div>
 
