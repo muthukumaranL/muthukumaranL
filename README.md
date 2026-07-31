@@ -28,7 +28,7 @@
 
 # Muthu Kumaran
 
-I build at the intersection of **AI engineering, data intelligence, product thinking, visual design, and storytelling**.
+**Building the Bridge Between Data, AI and Business.**
 
 My work starts with a messy real-world problem and ends with something people can actually use: a prediction system, computer-vision application, intelligent assistant, decision platform, or interactive data product.
 
