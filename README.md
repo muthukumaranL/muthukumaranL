@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="./assets/afterimage-split-trailer.svg" width="100%" alt="Muthu Kumaran Afterimage split-screen cinematic trailer"/>
+<a href="https://muthukumaranl.vercel.app/">
+  <img src="./assets/directors-cut-hero.svg" width="100%" alt="Muthu Kumaran — Director's Cut profile"/>
+</a>
 
 <br>
 
-<a href="https://github.com/muthukumaranL/flameguard-ai">
-  <img src="https://img.shields.io/badge/FLAMEGUARD-OPEN_PROJECT-EB4B61?style=for-the-badge&labelColor=08090D" alt="FlameGuard"/>
-</a>
-<a href="https://github.com/muthukumaranL/Football-Intelligence-Scouting-Platform">
-  <img src="https://img.shields.io/badge/FOOTBALL_INTELLIGENCE-OPEN_PROJECT-59D8E8?style=for-the-badge&labelColor=08090D" alt="Football Intelligence"/>
-</a>
 <a href="https://muthukumaranl.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-ENTER_AFTERIMAGE-E1BB73?style=for-the-badge&logo=vercel&logoColor=08090D&labelColor=08090D" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-VIEW_THE_FILM-D72638?style=for-the-badge&logo=vercel&logoColor=F4EBDD&labelColor=111111" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/muthukumaranl">
+  <img src="https://img.shields.io/badge/LINKEDIN-PRODUCTION_NOTES-111111?style=for-the-badge&logo=linkedin&logoColor=D72638" alt="LinkedIn"/>
+</a>
+<a href="mailto:muthu.kumaran2502@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT_THE_STUDIO-111111?style=for-the-badge&logo=gmail&logoColor=F2B134" alt="Email"/>
 </a>
 
-</div>
+</div
 
 ---
 
