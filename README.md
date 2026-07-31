@@ -225,15 +225,14 @@ SHIP WITH A POINT OF VIEW
 ## `OUTSIDE THE FRAME`
 
 ```text
-CINEMA              FOOTBALL
+CINEMA              MUSIC
 VISUAL STORYTELLING PRODUCT DESIGN
 PHILOSOPHY          POLITICS
 CYBERSECURITY       CREATIVE TECHNOLOGY
 ```
 
 Cinema shapes how I communicate.  
-Design shapes how I package ideas.  
-Football shapes how I think about systems and uncertainty.  
+Design shapes how I package ideas.   
 Storytelling shapes how I make technical work understandable.
 
 ---
