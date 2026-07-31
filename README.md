@@ -14,16 +14,6 @@
   <img src="https://img.shields.io/badge/DIRECTOR'S_TREATMENT-PORTFOLIO-D5A45D?style=for-the-badge&logo=vercel&logoColor=08090B&labelColor=08090B" alt="Portfolio"/>
 </a>
 
-<details>
-<summary><b>Production notes</b></summary>
-<br>
-
-Scene 01 - FlameGuard: fine-tuned YOLO11, OpenCV, PyTorch, Streamlit and image/video/live-webcam inference.
-
-Scene 02 - Football Intelligence: valuation, future-value prediction, transfer-success prediction, SHAP explainability and Streamlit deployment.
-
-</details>
-
 </div>
 
 ---
