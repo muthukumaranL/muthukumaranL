@@ -18,9 +18,9 @@
 <summary><b>Production notes</b></summary>
 <br>
 
-Scene 01 — FlameGuard: fine-tuned YOLO11, OpenCV, PyTorch, Streamlit, and image/video/live-webcam inference.
+Scene 01 - FlameGuard: fine-tuned YOLO11, OpenCV, PyTorch, Streamlit, and image/video/live-webcam inference.
 
-Scene 02 — Football Intelligence: valuation, future-value prediction, transfer-success prediction, SHAP explainability, and Streamlit deployment.
+Scene 02 - Football Intelligence: valuation, future-value prediction, transfer-success prediction, SHAP explainability, and Streamlit deployment.
 
 </details>
 
