@@ -46,15 +46,14 @@ The objective is to create a system that is:
 ```yaml
 location: Mississauga, Ontario
 role:
-  - Applied AI Developer
+  - AI/ML Engineer
   - Data Analyst
-  - System Builder
+  - Business Analyst
 current_focus:
   - LLM applications
   - RAG
   - AI agents
   - MLOps / LLMOps
-status: building in public
 ```
 
 </td>
