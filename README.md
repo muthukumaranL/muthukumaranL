@@ -210,7 +210,6 @@ SHIP WITH A POINT OF VIEW
   alt="3D GitHub contribution calendar"
 />
 
-<br><br>
 
 <img
   src="https://raw.githubusercontent.com/muthukumaranL/muthukumaranL/output/github-contribution-grid-snake-dark.svg"
@@ -221,7 +220,6 @@ SHIP WITH A POINT OF VIEW
 </div>
 
 ---
-<div align="center">
 ## `OUTSIDE THE FRAME`
 
 ```text
@@ -230,7 +228,6 @@ VISUAL STORYTELLING    PRODUCT DESIGN
 PHILOSOPHY             POLITICS
 CYBERSECURITY          CREATIVE TECHNOLOGY
 ```
-</div>
 
 <div align="center">
 
