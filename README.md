@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/muthu-directors-cut-square(1).svg" width="100%" alt="Muthu Kumaran Director's Cut cinematic GitHub profile"/>
+<img src="assets/muthu-directors-cut-square(2).svg" width="100%" alt="Muthu Kumaran Director's Cut cinematic GitHub profile"/>
 
 <br>
 
