@@ -76,12 +76,9 @@ current_focus:
 
 Intelligence
 
-Python · scikit-learn
-PyTorch · TensorFlow
-LightGBM · YOLO · OpenCV
-Predictive Modelling
-Time-Series Forecasting
-Computer Vision · Explainability
+Python | scikit-learn | PyTorch | TensorFlow
+LightGBM | YOLO | OpenCV | Predictive Modelling | 
+Time-Series Forecasting | Computer Vision | Explainability
 
 </td> <td width="50%" valign="top">
 
