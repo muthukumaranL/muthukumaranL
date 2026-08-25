@@ -96,12 +96,7 @@ FastAPI | REST APIs | Streamlit | Docker | Git | GitHub | Model Serving | Automa
 
 Design & Creative
 
-Figma · Adobe Photoshop
-Adobe Illustrator · Lightroom
-Sketch · Adobe Creative Suite
-UI/UX Design · Graphic Design
-Digital Illustration · Photo Editing
-Visual Storytelling
+Figma | Adobe Photoshop | Adobe Illustrator | Lightroom | Adobe Creative Suite | UI/UX Design | Graphic Design | Digital Illustration | Photo Editing | Visual Storytelling
 
 </td> </tr> </table>
 
