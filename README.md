@@ -62,13 +62,6 @@ current_focus:
 
 ---
 
-
-## `IN DEVELOPMENT`
-
-<img src="./assets/contact-sheet.svg" width="100%" alt="SkillRadar, DemandShock and LockIn AI contact sheet"/>
-
----
-
 ## `TOOLS OF THE TRADE`
 
 <div align="center">
