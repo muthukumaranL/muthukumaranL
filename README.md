@@ -111,8 +111,6 @@ current_focus:
 
 ## `THE METHOD`
 
-<img src="./assets/process-strip.svg" width="100%" alt="Muthu's process from problem to shipped system"/>
-
 ```text
 MESSY PROBLEM
       ↓
