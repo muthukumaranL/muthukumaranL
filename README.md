@@ -74,36 +74,50 @@ current_focus:
 
 <table> <tr> <td width="50%" valign="top">
 
-### Intelligence
+Intelligence
 
-`Python` · `pandas` · `NumPy`  
-`scikit-learn` · `TensorFlow`  
-`PyTorch` · `YOLO` · `OpenCV`  
-`NLP` · `LLM` · `RAG` · `XAI`
+Python · scikit-learn
+PyTorch · TensorFlow
+LightGBM · YOLO · OpenCV
+Predictive Modelling
+Time-Series Forecasting
+Computer Vision · Explainability
 
-</td>
-<td width="33%" valign="top">
+</td> <td width="50%" valign="top">
 
-### Data
+Data
 
-`SQL` · `Power BI` · `DAX`  
-`Power Query` · `Tableau`  
-`EDA` · `Data Modelling`  
-`KPI Reporting` · `Dashboards`
+SQL · pandas · NumPy
+Power BI · DAX
+Power Query · Tableau
+EDA · Feature Engineering
+Data Modelling · KPI Reporting
 
-</td>
-<td width="33%" valign="top">
+</td> </tr>
 
-### Production
+<tr> <td width="50%" valign="top">
 
-`FastAPI` · `Streamlit` · `REST`  
-`Docker` · `GitHub Actions`  
-`React` · `TypeScript` · `Vercel`  
-`Testing` · `Deployment`
+Production
 
-</td>
-</tr>
-</table>
+FastAPI · REST APIs
+Streamlit · Docker
+Git · GitHub
+Model Serving
+Automated Testing
+Reproducible Pipelines
+
+</td> <td width="50%" valign="top">
+
+Design & Creative
+
+Figma · Adobe Photoshop
+Adobe Illustrator · Lightroom
+Sketch · Adobe Creative Suite
+UI/UX Design · Graphic Design
+Digital Illustration · Photo Editing
+Visual Storytelling
+
+</td> </tr> </table>
 
 ---
 
