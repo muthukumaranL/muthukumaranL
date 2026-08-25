@@ -76,19 +76,13 @@ current_focus:
 
 Intelligence
 
-Python | scikit-learn | PyTorch | TensorFlow
-LightGBM | YOLO | OpenCV | Predictive Modelling | 
-Time-Series Forecasting | Computer Vision | Explainability
+Python | scikit-learn | PyTorch | TensorFlow | LightGBM | YOLO | OpenCV | Predictive Modelling | Time-Series Forecasting | Computer Vision | Explainability
 
 </td> <td width="50%" valign="top">
 
 Data
 
-SQL · pandas · NumPy
-Power BI · DAX
-Power Query · Tableau
-EDA · Feature Engineering
-Data Modelling · KPI Reporting
+SQL | pandas | NumPy | Power BI | DAX | Power Query | Tableau | EDA | Feature Engineering | Data Modelling | KPI Reporting
 
 </td> </tr>
 
@@ -96,12 +90,7 @@ Data Modelling · KPI Reporting
 
 Production
 
-FastAPI · REST APIs
-Streamlit · Docker
-Git · GitHub
-Model Serving
-Automated Testing
-Reproducible Pipelines
+FastAPI | REST APIs | Streamlit | Docker | Git | GitHub | Model Serving | Automated Testing | Reproducible Pipelines
 
 </td> <td width="50%" valign="top">
 
