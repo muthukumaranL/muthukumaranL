@@ -64,17 +64,7 @@ current_focus:
 
 ## `TOOLS OF THE TRADE`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,docker,git,github,react,ts,vscode&theme=dark&perline=12" alt="Core technologies"/>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="33%" valign="top">
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,docker,git,github,vscode&theme=dark&perline=10" alt="Core technologies"/> </div> <br> <table> <tr> <td width="33%" valign="top">
 
 ### Intelligence
 
