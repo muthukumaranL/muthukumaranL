@@ -53,6 +53,8 @@ current_focus:
   - AI agents
   - MLOps / LLMOps
 ```
+</td> 
+</tr>
 ---
 
 ## `TOOLS OF THE TRADE`
