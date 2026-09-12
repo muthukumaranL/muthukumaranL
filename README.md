@@ -57,44 +57,6 @@ current_focus:
 </tr>
 ---
 
-## `TOOLS OF THE TRADE`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,docker,git,github,vscode,figma,ps,ai&theme=dark&perline=13" alt="Core technologies and design tools"/>
-
-</div>
-
-<br>
-
-<table> <tr> <td width="50%" valign="top">
-
-Intelligence
-
-Python | scikit-learn | PyTorch | TensorFlow | LightGBM | YOLO | OpenCV | Predictive Modelling | Time-Series Forecasting | Computer Vision | Explainability
-
-</td> <td width="50%" valign="top">
-
-Data
-
-SQL | pandas | NumPy | Power BI | DAX | Power Query | Tableau | EDA | Feature Engineering | Data Modelling | KPI Reporting
-
-</td> </tr>
-
-<tr> <td width="50%" valign="top">
-
-Production
-
-FastAPI | REST APIs | Streamlit | Docker | Git | GitHub | Model Serving | Automated Testing | Reproducible Pipelines
-
-</td> <td width="50%" valign="top">
-
-Design & Creative
-
-Figma | Adobe Photoshop | Adobe Illustrator | Lightroom | Adobe Creative Suite | UI/UX Design | Graphic Design | Digital Illustration | Photo Editing | Visual Storytelling
-
-</td> </tr> </table>
-
 ---
 
 ## `THE METHOD`
@@ -130,7 +92,7 @@ SHIP WITH A POINT OF VIEW
 ---
 
 ```text
-CINEMA | MUSIC | VISUAL STORYTELLING | PRODUCT DESIGN | PHILOSOPHY | POLITICS | CYBERSECURITY | CREATIVE TECHNOLOGY
+CINEMA | MUSIC | VISUAL STORYTELLING | PHILOSOPHY | POLITICS | CYBERSECURITY | CREATIVE TECHNOLOGY
 ```
 <div align="center">
 
