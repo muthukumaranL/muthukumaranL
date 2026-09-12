@@ -57,24 +57,6 @@ current_focus:
 <br>
 <table> <tr> <td width="50%" valign="top">
 
-Intelligence
-
-Python | scikit-learn | PyTorch | TensorFlow | LightGBM | YOLO | OpenCV | Predictive Modelling | Time-Series Forecasting | Computer Vision | Explainability
-
-</td> <td width="50%" valign="top">
-
-Data
-
-SQL | pandas | NumPy | Power BI | DAX | Power Query | Tableau | EDA | Feature Engineering | Data Modelling | KPI Reporting
-
-</td> </tr>
-
-<tr> <td width="50%" valign="top">
-
-Production
-
-FastAPI | REST APIs | Streamlit | Docker | Git | GitHub | Model Serving | Automated Testing | Reproducible Pipelines
-
 </td> <td width="50%" valign="top">
 
 </td> </tr> </table>
