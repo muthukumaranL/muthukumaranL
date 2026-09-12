@@ -22,9 +22,7 @@
 <tr>
 <td width="62%" valign="top">
 
-## `THE SUBJECT`
-
-# Muthu Kumaran
+## `MUTHU KUMARAN`
 
 **Building the Bridge Between Data, AI, Business and Storytelling.**
 
@@ -39,7 +37,6 @@ The objective is to create a system that is:
 </td>
 <td width="38%" valign="top">
 
-## `PRODUCTION CARD`
 
 ```yaml
 location: Mississauga, Ontario
