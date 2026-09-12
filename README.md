@@ -57,6 +57,7 @@ current_focus:
 <br>
 <table> <tr>  </tr> </table>
 ---
+
 ## `THE METHOD`
 
 ```text
