@@ -55,7 +55,6 @@ current_focus:
 ```
 </td> 
 </tr>
----
 
 <br>
 
