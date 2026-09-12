@@ -9,7 +9,6 @@
 <table>
 <tr>
 <td width="62%" valign="top">
-
 ## `MUTHU KUMARAN`
 
 **Building the Bridge Between Data, AI, Business and Storytelling.**
