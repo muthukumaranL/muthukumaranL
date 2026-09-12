@@ -77,10 +77,6 @@ FastAPI | REST APIs | Streamlit | Docker | Git | GitHub | Model Serving | Automa
 
 </td> <td width="50%" valign="top">
 
-Design & Creative
-
-Figma | Adobe Photoshop | Adobe Illustrator | Lightroom | Adobe Creative Suite | UI/UX Design | Graphic Design | Digital Illustration | Photo Editing | Visual Storytelling
-
 </td> </tr> </table>
 ---
 ## `THE METHOD`
