@@ -53,13 +53,6 @@ current_focus:
   - AI agents
   - MLOps / LLMOps
 ```
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/identity-reel.svg" width="100%" alt="Muthu Kumaran identity film reel"/>
-
 ---
 
 ## `TOOLS OF THE TRADE`
