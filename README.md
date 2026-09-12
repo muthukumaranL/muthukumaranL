@@ -55,11 +55,7 @@ current_focus:
 </tr>
 
 <br>
-<table> <tr> <td width="50%" valign="top">
-
-</td> <td width="50%" valign="top">
-
-</td> </tr> </table>
+<table> <tr>  </tr> </table>
 ---
 ## `THE METHOD`
 
