@@ -14,7 +14,7 @@
 
 **Building the Bridge Between Data, AI, Business and Storytelling.**
 
-My work starts with a messy real-world problem and ends with something people can actually use,
+My Goal starts with a messy real-world problem and ends with something people can actually use.
 
 </td>
 <td width="38%" valign="top">
