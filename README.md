@@ -54,6 +54,37 @@ current_focus:
 </td> 
 </tr>
 
+<br>
+
+<table> <tr> <td width="50%" valign="top">
+
+Intelligence
+
+Python | scikit-learn | PyTorch | TensorFlow | LightGBM | YOLO | OpenCV | Predictive Modelling | Time-Series Forecasting | Computer Vision | Explainability
+
+</td> <td width="50%" valign="top">
+
+Data
+
+SQL | pandas | NumPy | Power BI | DAX | Power Query | Tableau | EDA | Feature Engineering | Data Modelling | KPI Reporting
+
+</td> </tr>
+
+<tr> <td width="50%" valign="top">
+
+Production
+
+FastAPI | REST APIs | Streamlit | Docker | Git | GitHub | Model Serving | Automated Testing | Reproducible Pipelines
+
+</td> <td width="50%" valign="top">
+
+Design & Creative
+
+Figma | Adobe Photoshop | Adobe Illustrator | Lightroom | Adobe Creative Suite | UI/UX Design | Graphic Design | Digital Illustration | Photo Editing | Visual Storytelling
+
+</td> </tr> </table>
+
+---
 ## `THE METHOD`
 
 ```text
