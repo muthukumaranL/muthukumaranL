@@ -22,6 +22,7 @@ The objective is to create a system that is:
 
 **useful · explainable · deployable · memorable**
 
+
 </td>
 <td width="38%" valign="top">
 
