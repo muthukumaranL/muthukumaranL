@@ -14,14 +14,7 @@
 
 **Building the Bridge Between Data, AI, Business and Storytelling.**
 
-My work starts with a messy real-world problem and ends with something people can actually use: a prediction system, computer-vision application, intelligent assistant, decision platform, or interactive data product.
-
-The objective is not merely to train a model.
-
-The objective is to create a system that is:
-
-**useful · explainable · deployable · memorable**
-
+My work starts with a messy real-world problem and ends with something people can actually use,
 
 </td>
 <td width="38%" valign="top">
