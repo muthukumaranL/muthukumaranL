@@ -135,8 +135,6 @@ CINEMA | MUSIC | VISUAL STORYTELLING | PRODUCT DESIGN | PHILOSOPHY | POLITICS | 
 ```
 <div align="center">
 
-## `FINAL FRAME`
-
 [**PORTFOLIO**](https://muthukumaranl.vercel.app/) ·
 [**LINKEDIN**](https://linkedin.com/in/muthukumaranl) ·
 [**EMAIL**](mailto:muthu.kumaran2502@gmail.com)
